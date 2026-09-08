@@ -1,8 +1,6 @@
 //07/09/2026
 //Codeforces 71A - Abbreviate words strictly longer than 10 characters
-//07/09/2026
-//Codeforces 71A - Abbreviate words strictly longer than 10 characters
- 
+
 #include <iostream>
 #include <string>
 using namespace std;
